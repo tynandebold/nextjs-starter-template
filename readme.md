@@ -1,4 +1,4 @@
-# Next.js Boilerplate
+# Next.js Starter Template
 
 A developer-friendly Next.js app configured with:
 
